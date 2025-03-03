@@ -1,4 +1,4 @@
-## Wassuhh 👋
+## Wagwan! 👋
 
 - Hi! I am Results-driven professional with a strong foundation in backend development, data analysis, and team collaboration.
 - Experienced in utilizing Python, Django, Streamlit, and NLP technologies to create innovative and efficient solutions. Thrives in dynamic, fast-paced environments while consistently delivering impactful results.
