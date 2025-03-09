@@ -10,3 +10,5 @@
 Backend projects that require building robust and scalable systems.
 Data-driven applications and analysis to extract actionable insights.
 AI-driven software solutions and innovative product development.
+
+Currently working on: Automated Grading System using ML Transformers, NLP, OCR using Flask and React🔎 (Learning On The Go)
